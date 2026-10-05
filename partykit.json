@@ -1,0 +1,5 @@
+{
+  "name": "subot-todo",
+  "main": "party/partyindex.ts",
+  "compatibilityFlags": ["nodejs_compat"]
+}
